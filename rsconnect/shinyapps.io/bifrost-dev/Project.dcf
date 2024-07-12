@@ -1,0 +1,12 @@
+name: Project
+title: Project
+username: bifrost-dev
+account: bifrost-dev
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12308750
+bundleId: 8854992
+url: https://bifrost-dev.shinyapps.io/Project/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
